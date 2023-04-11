@@ -1,4 +1,44 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
-* This file contains the CSS for index.html
+/* Created by: Ethan Cleasby
+* Created on: Mar 2023
+* This CSS file defines the style for index.html Assignment#1
 */
+
+body {
+  background-color: rgb(218, 218, 218);
+  text-align: center;
+}
+
+h1 {
+  background-color: rgb(222, 89, 60);
+  color: #ffffff;
+  text-align: center;
+  font-size: 30;
+}
+
+p {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20;
+  color: #000;
+}
+
+h2 {
+  background-color: rgb(222, 128, 60);
+  color: #ffffff;
+  text-align: center;
+  font-size: 30;
+}
+
+h3 {
+  background-color: rgb(222, 168, 60);
+  color: #ffffff;
+  text-align: center;
+  font-size: 30;
+}
+
+h4 {
+  background-color: rgb(222, 179, 60);
+  color: #ffffff;
+  text-align: center;
+  font-size: 30;
+}
